@@ -1,0 +1,11 @@
+#include<stdio.h>
+void main()
+{
+int l,b,a,p;
+printf("enter the length and breadth of rectangle");
+scanf("%d,%d",&l,$b);
+a=l*b;
+p=2*l+b;
+printf("area of rectangle is %d%d",a,b);
+
+}
